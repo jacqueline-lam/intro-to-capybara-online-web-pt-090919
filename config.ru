@@ -3,4 +3,4 @@ require 'sinatra'
 
 require_relative './app'
 
-ru Application
+run Application
